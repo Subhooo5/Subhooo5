@@ -24,7 +24,7 @@
 ## 🛠 Tech Arsenal
 
 ### Languages & Frameworks
-<p>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
@@ -42,7 +42,7 @@
 ---
 
 ### Databases & Infrastructure
-<p>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="Postgres"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
@@ -53,7 +53,7 @@
 ---
 
 ### Cloud & Tools
-<p>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" alt="Netlify"/>
@@ -131,13 +131,3 @@
 
 </div>
 
----
-
-<p align="center">
-<b>Subhodeep's GitHub Stats</b>  
-<br>⭐ Total Stars Earned: 108  
-<br>📌 Total Commits (2025): 582  
-<br>🔄 Total PRs: 118  
-<br>🐛 Total Issues: 109  
-<br>📅 Contributed to (last year): 24  
-</p>
