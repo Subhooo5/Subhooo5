@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I am Subhodeep 👋🏼</h1>
 
 <p align="center">
-  <a href="https://x.com/SiMpL36969)"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://x.com/SiMpL36969"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://linkedin.com/in/subhodeep-chatterjee-78210828b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://portfolio-wheat-sigma-47.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:subhodeep17102005@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
