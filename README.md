@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I am Subhodeep 👋🏼</h1>
 
 <p align="center">
-  <a href="https://x.com/[your_x_handle](https://x.com/SiMpL36969)"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://linkedin.com/in/[yourlinkedin](https://www.linkedin.com/in/subhodeep-chatterjee-78210828b/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="[https://yourportfolio.com](https://portfolio-wheat-sigma-47.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://x.com/SiMpL36969)"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://linkedin.com/in/subhodeep-chatterjee-78210828b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="[[https://yourportfolio.com](https://portfolio-wheat-sigma-47.vercel.app/)]"><img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:subhodeep17102005@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
@@ -54,7 +54,7 @@
 
 ### Cloud & Tools
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" alt="AWS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" alt="Netlify"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" alt="Vercel"/>
