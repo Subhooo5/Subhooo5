@@ -11,6 +11,8 @@
   <img src="https://komarev.com/ghpvc/?username=Subhooo5&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
+[![An image of @subhooo5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhooo5)](https://holopin.io/@subhooo5)
+
 ---
 
 ## 💡 What I’m Wired For
