@@ -46,9 +46,3 @@
 
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Subhooo5&show_icons=true&theme=radical&border_radius=12&hide_border=false&bg_color=0d1117&title_color=ff79c6&icon_color=50fa7b" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhooo5&layout=compact&theme=radical&border_radius=12&hide_border=false&bg_color=0d1117&title_color=ffb86c" height="180" alt="Top Languages" />
-</p>
