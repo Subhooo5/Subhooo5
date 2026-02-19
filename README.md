@@ -26,9 +26,10 @@
 ## 🛠 Tech Arsenal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,nodejs,express,nextjs,react,threejs,mysql,postgresql,mongodb,docker,aws,gcp,netlify" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,nodejs,express,nextjs" />
 </p>
 
-
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,threejs,mysql,postgresql,mongodb,docker,aws,gcp,netlify" />
+</p>
 
