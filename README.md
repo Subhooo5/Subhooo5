@@ -25,24 +25,10 @@
 
 ## 🛠 Tech Arsenal
 
-### Languages & Frameworks
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,nodejs,express,nextjs,react,threejs" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,nodejs,express,nextjs,react,threejs,mysql,postgresql,mongodb,docker,aws,gcp,netlify" />
 </p>
 
----
-
-### Databases & Infrastructure
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,docker" />
-</p>
-
----
-
-### Cloud & Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,netlify,vercel,vscode,figma" />
-</p>
 
 
 
