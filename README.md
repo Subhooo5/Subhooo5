@@ -29,7 +29,7 @@
 
 ---
 
-## 📊 GitHub Streak
+## Streakforge Demo
 
 <div align="center">
 
