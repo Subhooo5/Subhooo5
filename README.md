@@ -29,29 +29,27 @@
 
 ---
 
-## Streakforge Demo
+<h2 align="center">Streakforge Demo</h2>
 
 <div align="center">
 
-[![CommitPulse Contribution Graph for Subhooo5](https://streakforge-one.vercel.app/api/streak?user=Subhooo5&theme=cyberpunk_neon)](https://streakforge-one.vercel.app/dashboard/Subhooo5)
+[![CommitPulse Contribution Graph for Subhooo5](https://streakforge-one.vercel.app/api/streak?user=Subhooo5&theme=neon)](https://streakforge-one.vercel.app/dashboard/Subhooo5)
 
 </div>
 
----
 
-## Tech Arsenal
+<h2 align="center">Tech Arsenal</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,nodejs,express,nextjs" />
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,threejs,mysql,postgresql,mongodb,docker,aws,gcp,gsap" />
+<img src="https://skillicons.dev/icons?i=react,threejs,mysql,postgresql,mongodb,docker,aws,gcp,postman" />
 </p>
 
----
 
-## Achievements & Badges
+<h2 align="center">Achievements & Badges</h2>
 
 <p align="center">
   <img src="https://github.com/Subhooo5/Subhooo5/blob/main/assets/100Days2025.gif" width="100"/>
@@ -64,9 +62,8 @@
   <img src="https://github.com/Subhooo5/Subhooo5/blob/main/assets/GSSoCPowerContributor.png" width="100"/>
 </p>
 
----
 
-## CP & Open Source
+<h2 align="center">CP & Open Source</h2>
 
 <div align="center">
 
@@ -78,9 +75,8 @@
 
 </div>
 
----
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <table align="center">
   <tr>
@@ -97,9 +93,8 @@
   </tr>
 </table>
 
----
 
-## Projects
+<h2 align="center">Projects</h2>
 
 <div align="center">
 
@@ -111,19 +106,8 @@
 
 </div>
 
----
+
 
 <div align="center">
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=100&section=footer" width="100%"/>
-
-*"Somewhere between the model and the metal."* 
-
-<!-- 
-
-*"Work in progress. So is the code."*
-*"Somewhere between the model and the metal."* 
-*"Built with curiosity. Debugged with patience."*
-*"Undergrad by day. Stack overflow by night."*
-
--->
