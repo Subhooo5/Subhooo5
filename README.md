@@ -5,8 +5,6 @@
 <a href="https://github.com/Subhooo5/Subhooo5/raw/main/assets/Subhodeep%20Chatterjee.pdf"><img src="https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=googledocs&logoColor=black" alt="Resume"/></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLS45NjYgMC0xLjc1LS43NzktMS43NS0xLjc1cy43ODQtMS43NSAxLjc1LTEuNzUgMS43NS43NzkgMS43NSAxLjc1LS43ODQgMS43NS0xLjc1IDEuNzV6bTEzLjUgMTIuMjY4aC0zdi01LjYwNGMwLTMuMzY4LTQtMy4xMTMtNCAwdjUuNjA0aC0zdi0xMWgzdjEuNzY1YzEuMzk2LTIuNTg2IDctMi43NzcgNyAyLjQ3NnY2Ljc1OXoiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/subho1817/)
 <a href="https://portfolio-wheat-sigma-47.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:subhodeep17102005@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://x.com/SiMpL36969"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://leetcode.com/u/s1mpL33/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://codeforces.com/profile/SiMpL3"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
 <a href="https://gssoc.girlscript.org/profile/79f4cc00-1748-46a1-8e77-1f051b44958b"><img src="https://img.shields.io/badge/GSSoC_'26-F97316?style=for-the-badge&logoColor=white" alt="GSSoC '26"/></a>
@@ -22,7 +20,7 @@
 ---
 
 ## 💡 What I’m Wired For
-- 🔥 Into DSA / CP, Backend Architectures, Web Dev, ML & DL  
+- 🔥 Into DSA / CP, Backend Architectures, Cloud, ML & DL  
 - 🚀 Currently jamming on DS, ML and all things Web 
 - 📡 [Shoot up on X](https://x.com/SiMpL36969)  
 - 📧 Drop a line at **subhodeep17102005@email.com**
@@ -41,11 +39,11 @@
 <h2 align="center">Tech Arsenal</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,nodejs,express,nextjs" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,nodejs,express,nextjs,react" />
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,threejs,mysql,postgresql,mongodb,docker,aws,gcp,postman" />
+<img src="https://skillicons.dev/icons?i=supabase,mysql,postgresql,redis,mongodb,docker,aws,gcp,postman" />
 </p>
 
 
@@ -56,10 +54,15 @@
   <img src="https://github.com/Subhooo5/Subhooo5/blob/main/assets/100Days2026.gif" width="100"/>
   <img src="https://github.com/Subhooo5/Subhooo5/blob/main/assets/200Days2025.gif" width="100"/>
   <img src="https://github.com/Subhooo5/Subhooo5/blob/main/assets/SQL_50.gif" width="100"/>
+  <img src="https://github.com/Subhooo5/Subhooo5/blob/main/assets/365Days.gif" width="100"/>
+</p>
+
+<p align="center">
   <img src="https://github.com/Subhooo5/Subhooo5/blob/main/assets/GSSoCChampion.png" width="100"/>
   <img src="https://github.com/Subhooo5/Subhooo5/blob/main/assets/GSSoCConsistent.png" width="100"/>
   <img src="https://github.com/Subhooo5/Subhooo5/blob/main/assets/GSSoCElite.png" width="100"/>
   <img src="https://github.com/Subhooo5/Subhooo5/blob/main/assets/GSSoCPowerContributor.png" width="100"/>
+  <img src="https://github.com/Subhooo5/Subhooo5/blob/main/assets/bronze_medal.png" width="100"/>
 </p>
 
 
@@ -69,7 +72,7 @@
 
 | Platform | Problems Solved |
 |---|---|
-| [LeetCode](https://leetcode.com/u/s1mpL33/) | 650+ |
+| [LeetCode](https://leetcode.com/u/s1mpL33/) | Max: 1838 |
 | [Codeforces](https://codeforces.com/profile/SiMpL3) | Max: 1454 |
 | [GSSoC '26](https://gssoc.girlscript.org/profile/79f4cc00-1748-46a1-8e77-1f051b44958b) | Contributor |
 
