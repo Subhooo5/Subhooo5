@@ -50,11 +50,11 @@
 <h2 align="center">Achievements & Badges</h2>
 
 <p align="center">
-  <img src="https://github.com/Subhooo5/Subhooo5/blob/main/assets/100Days2025.gif" width="100"/>
-  <img src="https://github.com/Subhooo5/Subhooo5/blob/main/assets/100Days2026.gif" width="100"/>
-  <img src="https://github.com/Subhooo5/Subhooo5/blob/main/assets/200Days2025.gif" width="100"/>
-  <img src="https://github.com/Subhooo5/Subhooo5/blob/main/assets/SQL_50.gif" width="100"/>
+  <img src="https://github.com/Subhooo5/Subhooo5/blob/main/assets/Knight.gif" width="100"/>
   <img src="https://github.com/Subhooo5/Subhooo5/blob/main/assets/365Days.gif" width="100"/>
+  <img src="https://github.com/Subhooo5/Subhooo5/blob/main/assets/200Days2025.gif" width="100"/>
+  <img src="https://github.com/Subhooo5/Subhooo5/blob/main/assets/100Days2026.gif" width="100"/>
+  <img src="https://github.com/Subhooo5/Subhooo5/blob/main/assets/SQL_50.gif" width="100"/>
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@
 
 | Platform | Problems Solved |
 |---|---|
-| [LeetCode](https://leetcode.com/u/s1mpL33/) | Max: 1838 |
+| [LeetCode](https://leetcode.com/u/s1mpL33/) | Max: 1858 |
 | [Codeforces](https://codeforces.com/profile/SiMpL3) | Max: 1454 |
 | [GSSoC '26](https://gssoc.girlscript.org/profile/79f4cc00-1748-46a1-8e77-1f051b44958b) | Contributor |
 
